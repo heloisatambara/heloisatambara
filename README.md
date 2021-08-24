@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heloisatambara
 - 👀 I’m interested in learning by experience all languages, especially front-end libraries.
-- 🌱 I’m currently learning python and react.
+- 🌱 I’m currently learning python, react and R.
 - 💞️ I’m looking to collaborate on any projects on which I can learn and show that I can be helpfull, not necessarily being paid for it.
-- 📫 How to reach me: instagram @heloisa.tambara
+- 📫 How to reach me: email me! heloisatambarapaiva@gmail.com 
