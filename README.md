@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heloisatambara
-- 👀 I’m interested in learning by experience all languages, especially for system integration.
+- 👀 I’m interested in learning by experience all languages, especially for system integration and simulation.
 - 🌳 Here you'll find that I’ve already learned something about Python, R, InterSystems ObjectScript, SQL, HTML, CSS, JavaScript and TypeScript, C and C++. 
 - 🌱 I’m currently learning C and C++ and working with InterSystems ObjectScript.
 - 💞️ I’m looking to collaborate on any projects on which I can learn and show that I can be helpfull, not necessarily being paid for it.
